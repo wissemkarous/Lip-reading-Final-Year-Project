@@ -2,7 +2,7 @@
 This deep learning project is about Lip Reading which is a technique of understanding speech by visually interpreting the movements of the lips
 so, we implemented this Lip Reading by using deep learning. It can be used for hard-of hearing people or to get some information from video without sound.
 
-This is the keras implementation of Lip2AudSpec: Speech reconstruction from silent lip movements video.
+This is the keras implementation of Lip2AudSpec: Speech reconstruction from silent lip movements video. 
 ![image](https://github.com/wissemkarous/Lip-readingPFA/assets/115191512/b1a8a17b-da29-4424-9e5c-b3f51dd07a27)
 
 # Objective :
