@@ -29,5 +29,9 @@ jobs:
         if (Test-Path requirements.txt) { python -m pip install -r requirements.txt }
         # You might need additional setup steps for your environment
 
+    - name: Convert Jupyter Notebook to Python script
+      run: jupyter nbconvert --to script lipreading-17-12-2023.ipynb
+
     - name: Run lip reading script
-      run: python your_script.py
+      run: python lipreading-17-12-2023.py
+
