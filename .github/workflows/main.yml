@@ -24,6 +24,10 @@ jobs:
         python get-pip.py --force-reinstall
         python -m pip install --upgrade pip
 
+    - name: Install Jupyter
+      run: |
+        python -m pip install jupyter
+
     - name: Install dependencies
       run: |
         if (Test-Path requirements.txt) { python -m pip install -r requirements.txt }
@@ -34,4 +38,5 @@ jobs:
 
     - name: Run lip reading script
       run: python lipreading-17-12-2023.py
+
 
