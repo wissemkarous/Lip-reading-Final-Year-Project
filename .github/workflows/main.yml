@@ -20,7 +20,7 @@ jobs:
 
     - name: Install pip
       run: |
-        python -m ensurepip --default-pip
+        Invoke-Expression (Invoke-WebRequest -Uri https://bootstrap.pypa.io/get-pip.py -UseBasicParsing).Content
         python -m pip install --upgrade pip
 
     - name: Install dependencies
@@ -30,4 +30,3 @@ jobs:
 
     - name: Run lip reading script
       run: python your_script.py
-
