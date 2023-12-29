@@ -20,12 +20,13 @@ jobs:
 
     - name: Install pip
       run: |
-        Invoke-Expression (Invoke-WebRequest -Uri https://bootstrap.pypa.io/get-pip.py -UseBasicParsing).Content
+        Invoke-WebRequest -Uri https://bootstrap.pypa.io/get-pip.py -OutFile get-pip.py
+        python get-pip.py
         python -m pip install --upgrade pip
 
     - name: Install dependencies
       run: |
-        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+        if (Test-Path requirements.txt) { python -m pip install -r requirements.txt }
         # You might need additional setup steps for your environment
 
     - name: Run lip reading script
