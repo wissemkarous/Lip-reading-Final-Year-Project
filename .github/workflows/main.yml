@@ -17,12 +17,12 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: 3.10
-
     - name: Install pip
       run: |
-        Invoke-WebRequest -Uri https://bootstrap.pypa.io/get-pip.py -OutFile get-pip.py
-        python get-pip.py
-        python -m pip install --upgrade pip
+       Invoke-WebRequest -Uri https://bootstrap.pypa.io/get-pip.py -OutFile get-pip.py
+       python get-pip.py --force-reinstall
+       python -m pip install --upgrade pip
+
 
     - name: Install dependencies
       run: |
