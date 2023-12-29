@@ -18,11 +18,16 @@ jobs:
       with:
         python-version: 3.10
 
+    - name: Install pip
+      run: |
+        python -m ensurepip --default-pip
+        python -m pip install --upgrade pip
+
     - name: Install dependencies
       run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
         # You might need additional setup steps for your environment
 
     - name: Run lip reading script
       run: python your_script.py
+
