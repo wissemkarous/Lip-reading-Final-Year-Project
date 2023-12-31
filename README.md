@@ -20,6 +20,6 @@ Lip Reading is language-dependent, and in this project, we have chosen Hangul as
 
 ## Author 🧑‍💻 🙌:
 ### Wissem Karous 
-👉Reach me at: <br>
-📧-->wissemkar203@gmail.com
+Reach me at: <br>
+📧wissemkar203@gmail.com
 
