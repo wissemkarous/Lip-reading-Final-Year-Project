@@ -19,7 +19,7 @@ Lip Reading is language-dependent, and in this project, we have chosen Hangul as
   ![40 Epochs](https://github.com/wissemkarous/Lip-reading-Final-Year-Project/assets/115191512/6c5282e6-7276-4a27-8ece-fa31c3c5a576)
 
 ## Author 🧑‍💻 🙌:
-### Wissem Karous 
+<h1>Wissem Karous /h1>  
 Reach me at: <br>
 📧wissemkar203@gmail.com
 
