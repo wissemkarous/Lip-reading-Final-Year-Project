@@ -2,7 +2,7 @@
 
 This deep learning project focuses on Lip Reading, a technique for understanding speech by visually interpreting the movements of the lips. Our implementation utilizes deep learning and can be beneficial for individuals who are hard of hearing or for extracting information from videos without sound.
 
-## Lip2AudSpec: Speech Reconstruction from Silent Lip Movements Video 📹🔊
+## Lip2AudSpec: Speech Reconstruction from Silent Lip Movements Video 📹
 ![Lip2AudSpec](https://github.com/wissemkarous/Lip-readingPFA/assets/115191512/b1a8a17b-da29-4424-9e5c-b3f51dd07a27)
 
 ## Objective 🎯
