@@ -1,6 +1,6 @@
 # Lip-Reading Final Year Project :
 
-This deep learning project focuses on Lip Reading, a technique for understanding speech by visually interpreting the movements of the lips. Our implementation utilizes deep learning and can be beneficial for individuals who are hard of hearing or for extracting information from videos without sound.
+This deep learning project focuses on Lip Reading, a technique for understanding speech by visually interpreting the movements of the lips.  Our implementation utilizes deep learning and can be beneficial for individuals who are hard of hearing or for extracting information from videos without sound.
 # Project Presentation :
 https://github.com/wissemkarous/Lip-reading-Final-Year-Project/assets/115191512/1e81dc7b-084d-4202-9e4a-480703d21366 
 
