@@ -20,9 +20,11 @@ Lip Reading is language-dependent, and in this project, we have chosen Hangul as
 
 - **For 40 Epochs:** <br>
   ![40 Epochs](https://github.com/wissemkarous/Lip-reading-Final-Year-Project/assets/115191512/6c5282e6-7276-4a27-8ece-fa31c3c5a576)
+- **For 40 Epochs:** <br>
+  ![50Epochs](https://github.com/wissemkarous/Lip-reading-Final-Year-Project/assets/115191512/cd822cd9-95a0-4c56-b06d-9a0fd3b3b17e)
 
-# Author 🧑‍💻 :
+# Author  :
 Wissem Karous 
 Reach me at: <br>
-📧wissemkar203@gmail.com
+wissemkar203@gmail.com
 
