@@ -26,6 +26,10 @@ Lip Reading is language-dependent, and in this project, we have chosen Hangul as
   ![image](https://github.com/wissemkarous/Lip-reading-Final-Year-Project/assets/115191512/8c8d07b0-597a-431b-8039-498aab624804)
 -**For 80 Epochs & Batch-Normalization:** <br>
   ![image](https://github.com/wissemkarous/Lip-reading-Final-Year-Project/assets/115191512/f6a70eed-9851-444e-a4de-53c7d23b196e)
+-**For 90 Epochs & Batch-Normalization:** <br>
+
+  ![image](https://github.com/wissemkarous/Lip-reading-Final-Year-Project/assets/115191512/78bbc282-5062-4974-b2a9-9c40742ba057)
+
 
 
 
