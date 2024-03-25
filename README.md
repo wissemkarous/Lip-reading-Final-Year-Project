@@ -33,6 +33,8 @@ Lip Reading is language-dependent, and in this project, we have chosen Hangul as
 
 ## DATASET :
 [check this link :](https://huggingface.co/datasets/wissemkarous/lipreading)
+![image](https://github.com/wissemkarous/Lip-reading-Final-Year-Project/assets/115191512/7ef58cc7-e480-4c7a-a0b7-953fa3a92140)
+
 
 
 # Author  :
